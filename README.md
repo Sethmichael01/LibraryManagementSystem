@@ -6,7 +6,7 @@ Thanks for viewing the library management, it was created for learning and pract
 
 Build Status
 
-Library Management version 1.1
+Library Management
 
 INSTALLATION
 
@@ -34,8 +34,4 @@ http://localhost: ( when you start the server, You will automatically go to the 
 QUICK START
 
 The LM starts from its root folder. When you first start, click F5. The server is started by the Visual Studio command F5 
-
-
-
-
-Kostyantyn Yachnytskyi yachnytskyi1992@gmail.com
+sethmichael1.sm@gmail.com
